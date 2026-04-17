@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Fort Wayne, Indiana with a population of over 263k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
   "config_name": "All Restaurants in Fort Wayne, Indiana, US",
-  "export_job_id": "934a4f7c-b3fe-4cd8-9773-ff1f4bdbab52",
+  "export_job_id": "21d94b14-7c3d-4290-914b-df899ec1ab1a",
   "github_org": "Beamstation-Datasets",
   "id_short": 709870,
   "location_name": "Fort Wayne",
   "location_type": "city",
   "repo_name": "all-restaurants-in-fort-wayne-indiana-us-sample-709870",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/709870/beamstation_709870_restaurants-us-in_SAMPLE_DIST.csv",
-  "sample_pct": 12.62,
+  "sample_pct": 9.98,
   "sample_records": 90,
   "sample_sha256": "4bd4ee40202a39c7919f1f50ab0b72ab5d053ee422ad21dbad6fb876d9252039",
   "sample_size_bytes": 319172,
-  "total_records": 713,
-  "updated_at": "2026-03-31T15:57:07.658139+00:00"
+  "total_records": 902,
+  "updated_at": "2026-04-14T16:40:41.149158+00:00"
 }
