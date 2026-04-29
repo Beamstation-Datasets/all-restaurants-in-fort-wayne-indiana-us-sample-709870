@@ -1,6 +1,6 @@
 # All Restaurants in Fort Wayne, Indiana, US
 
-> Free BeamStation sample export with 80 rows and masked direct-contact fields.
+> Free BeamStation sample export with 86 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `709870` |
 | Location | Fort Wayne |
 | Category | Restaurants |
-| Full dataset size | 807 records |
-| Free sample size | 80 records (9.91%) |
-| Last export | 2026-04-21T18:11:42.635101+00:00 |
+| Full dataset size | 864 records |
+| Free sample size | 86 records (9.95%) |
+| Last export | 2026-04-28T19:30:19.970884+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-fort-wayne-indiana-us-sample-709870/releases/download/sample-latest/beamstation_709870_restaurants-us-in_SAMPLE_DIST.csv) |
 
 ## What is in this sample
