@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0156f0e4-7bb9-4603-b57e-c468a8422375",
+  "export_job_id": "23d23150-d64e-425f-ab32-12f41e6731e7",
   "id_short": 709870,
-  "published_at": "2026-04-21T19:44:09Z",
+  "published_at": "2026-04-29T07:04:03Z",
   "repo_name": "all-restaurants-in-fort-wayne-indiana-us-sample-709870",
   "sample_asset_name": "beamstation_709870_restaurants-us-in_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/709870/beamstation_709870_restaurants-us-in_SAMPLE_DIST.csv",
-  "sample_records": 80,
-  "sample_sha256": "beaf4498bb2831fec1a45a645863c1c7bdca4a54c8b3d81d53a7e369a7db6400",
-  "sample_size_bytes": 290524,
-  "total_records": 807
+  "sample_records": 86,
+  "sample_sha256": "de95280a611867809f9c5f236561117bdb0afbf9da4d9881a9f1dce8870b9139",
+  "sample_size_bytes": 298859,
+  "total_records": 864
 }
